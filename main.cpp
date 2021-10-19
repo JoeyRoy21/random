@@ -6,6 +6,7 @@
 #include <iostream>
 #include <string>
 #include "Can.cpp"
+//will attach another file later
 using namespace std;
 
 void printContents(Can arr[], int n)
@@ -19,7 +20,9 @@ void printContents(Can arr[], int n)
   }
 
   cout << endl; 
-  cout << "Total Weight = " << total << " ounces " << endl; 
+  cout << "Total Weight = " << total << " ounces " << endl;
+  cout << "Hello Losers " << endl;
+  cout << "Hey Dave just random printt" << endl;
 }
 
 int main()
